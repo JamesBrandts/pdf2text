@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pdfreader": "^3.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "type": "module"
+}
